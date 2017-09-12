@@ -3,19 +3,20 @@
 
 [![Build Status](https://secure.travis-ci.org/biomadeira/vitae.png?branch=gh-pages)](http://travis-ci.org/biomadeira/vitae)
 
-Personal homepage (curriculum vitae or resume) based on [João's](https://github.com/joaomoreno/resume).
+Personal homepage (curriculum vitae or resume).
+ <!-- based on [João's](https://github.com/joaomoreno/resume). -->
 Vitae is built with [skeleton](http://getskeleton.com/), powered by [Jekyll](http://jekyllrb.com/) and freely
 hosted in [Github pages](https://pages.github.com/).
 
 
 ## View the live demo
 
-[Vitae Live Demo](https://biomadeira.github.io/vitae)
+[Vitae Live Demo](http://www.nehas.ml/)
 
 
-## Screenshots
+<!-- ## Screenshots
 
-![resume page](https://raw.githubusercontent.com/biomadeira/vitae/gh-pages/assets/images/vitae_screen.png)
+![resume page](https://raw.githubusercontent.com/biomadeira/vitae/gh-pages/assets/images/vitae_screen.png) -->
 
 
 ## How to use it
@@ -30,11 +31,11 @@ I have tested this install with Ruby v2.2.2p95 (Mac OS RVM) and Jekyll v3.0.0. I
 Feel free pull-request your patches and fixes.
 
 
-## Thanks 
+<!-- ## Thanks 
 
 A lot of the work had been already done by the Joao. Many thanks to him :smile:
 
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
+Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/). -->
 
 
 ## Copyright & License
@@ -49,7 +50,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-
+<!-- 
 STEPS :
 jekyll build --watch
-surge _site www.nehas.ml
+surge _site www.nehas.ml -->

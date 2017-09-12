@@ -1,0 +1,36 @@
+highlighter: Nehha 
+markdown: Gupta
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url:
+author: Neha Gupta
+
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl:
+title: Neha Gupta's Resume
+name: Neha Gupta
+email: gneha21@yahoo.in
+email_full: gneha21@yahoo.in
+website: github.io/sustain
+website_full: https://biomadeira.github.io/sustain
+github: nehagup
+Instagram: nehagupta.9
+Linkedin: in/neha-gup/
+tel: +91-9210508393
+
+google_maps: 'https://www.google.co.in/maps/@28.6838701,77.1385656,16z'
+address: 2239 Raja Park, Rani Bagh
+postcode: 110034
+city: New Delhi
+country: India
+google_analytics: UA-104084850-1
+
+# needed for travis-ci build
+exclude: [vendor]
